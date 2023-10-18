@@ -33,5 +33,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+![LGTM](https://image.lgtmoon.dev/225707)
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=ken-ty&count_private=true)
