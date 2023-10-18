@@ -32,3 +32,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/kentokura/contributions.svg" />
   </a>
 </p>
+
+
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=ken-ty&count_private=true)
