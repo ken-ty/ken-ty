@@ -22,15 +22,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/ken-ty">
     <img height="20" src="https://img.shields.io/github/followers/ken-ty?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://stackoverflow.com/users/15761443/ken-tokura">
+<!--   <a href="https://stackoverflow.com/users/15761443/ken-tokura">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/15761443?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="https://qiita.com/kentokura">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kentokura/posts.svg" />
-  </a>
-  <a href="https://qiita.com/kentokura">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kentokura/contributions.svg" />
-  </a>
+  </a> -->
 </p>
 
 ![LGTM](https://image.lgtmoon.dev/225707)
