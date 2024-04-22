@@ -2,13 +2,20 @@
   <a href="https://github.com/ken-ty/ken-ty/">
     <img src="https://komarev.com/ghpvc/?username=ken-ty" alt="ken-ty" />
   </a>
-<!--   <a href="https://github.com/ken-ty">
-    <img height="20" src="https://img.shields.io/github/followers/ken-ty?label=follow&logo=github&style=flat" />
-  </a> -->
-<!--   <a href="https://stackoverflow.com/users/15761443/ken-tokura">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/15761443?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a> -->
 </p>
+
+## TL;DR
+
+Hi,their 🍣
+
+- I live in Hokkaido, Japan.
+- I love Dart, PHP and bash.
+- I mainly focus on web/mobile front-end development.
+- I also have experience using AWS, backends, robot developments, analysis using Google Analytics and programming instructor.
+
+Am I a full stack engineer? My technology stack is similar to monolith services, but I prefer microservices.
+
+## My Development Stats.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ken-ty&count_private=true&show_icons=true&include_all_commits=true" />
