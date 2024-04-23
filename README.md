@@ -13,7 +13,7 @@ Hi,their 🍣
 - I mainly focus on web/mobile front-end development.
 - I also have experience using AWS, backends, robot developments, analysis using Google Analytics and programming instructor.
 
-Am I a full stack engineer? My technology stack is similar to monolith services, but I prefer microservices.
+My technology stack is similar to monolith services, but I prefer microservices.
 
 ## My Development Stats.
 
