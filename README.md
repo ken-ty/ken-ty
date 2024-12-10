@@ -17,6 +17,8 @@ My technology stack is similar to monolith services, but I prefer microservices.
 
 ## My Development Stats.
 
+![](https://hit.yhype.me/github/profile?account_id=38717219)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ken-ty&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
