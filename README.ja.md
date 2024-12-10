@@ -14,16 +14,16 @@
 
 ## TL;DR
 
-Hi,their 🍣
+こんにちは 🍣
 
-- I live in Hokkaido, Japan.
-- I love Dart, PHP and bash.
-- I mainly focus on web/mobile front-end development.
-- I also have experience using AWS, backends, robot developments, analysis using Google Analytics and programming instructor.
+- 北海道在住
+- Dart、PHP、bashが大好き
+- 主にWeb・モバイルのフロントエンド開発に注力しています
+- AWS、バックエンド開発、ロボット開発、Google Analyticsを用いた分析、プログラミング講師の経験があります
 
-My technology stack is similar to monolith services, but I prefer microservices.
+技術スタックはモノリシックなサービスに近いですが、マイクロサービスの方が好きです。
 
-## My Development Stats.
+## 開発スタッツ
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ken-ty&count_private=true&show_icons=true&include_all_commits=true" />
