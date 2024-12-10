@@ -4,13 +4,9 @@
   </a>
 </p>
 
-<a href="https://github.com/ken-ty/ken-ty/README.md">
-  English
-</a>
+<a href="./README.md">English</a>
 &nbsp;
-<a href="https://github.com/ken-ty/ken-ty/README.ja.md">
-  日本語
-</a>
+<a href="./README.ja.md">日本語</a>
 
 ## TL;DR
 
