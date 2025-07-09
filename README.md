@@ -12,7 +12,7 @@
 
 Hi,their 🍣
 
-- I live in Hokkaido, Japan.
+- I live in Chiba, Japan.
 - I love Dart, PHP and bash.
 - I mainly focus on web/mobile front-end development.
 - I also have experience using AWS, backends, robot developments, analysis using Google Analytics and programming instructor.
