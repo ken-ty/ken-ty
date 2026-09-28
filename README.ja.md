@@ -24,12 +24,11 @@
 - [netcap](https://github.com/ken-ty/netcap) — ホストベースの QoS CLI。ネットワーク上の各マシンのインターネット帯域を、1 台からコマンド 1 つで制限する（macOS / Linux / Windows）
 - [ccs](https://github.com/ken-ty/ccs) — ハブ 1 本から tmux 上に複数の Claude Code セッションを立て・見つけ・畳む薄いラッパー（[ドキュメント](https://ken-ty.github.io/ccs/)）
 
-<p align="left">
+<!-- yhype で view数カウントする為の埋め込み。独立した段落にすると下に余白が出るので、バッジと同じ段落に入れる -->
+<!-- https://yhype.me/github/profile-views -->
+<p align="right">
   <a href="https://github.com/ken-ty/ken-ty/">
     <img src="https://komarev.com/ghpvc/?username=ken-ty" alt="ken-ty" />
   </a>
+  <img src="https://hit.yhype.me/github/profile?account_id=38717219" width="1" height="1" alt="" />
 </p>
-
-<!-- yhype で view数カウントする為の埋め込み -->
-<!-- https://yhype.me/github/profile-views -->
-![](https://hit.yhype.me/github/profile?account_id=38717219)

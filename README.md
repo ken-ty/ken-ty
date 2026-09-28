@@ -24,12 +24,11 @@ Flutter / Dart engineer based in Tokyo, Japan. Founder & CEO of CYKAMI Inc.
 - [netcap](https://github.com/ken-ty/netcap) — Host-based QoS CLI. Throttle the internet bandwidth of every computer on your network, from one of them, with one command. (macOS / Linux / Windows)
 - [ccs](https://github.com/ken-ty/ccs) — A thin tmux wrapper to launch, find and close multiple Claude Code sessions from one hub. ([docs](https://ken-ty.github.io/ccs/))
 
-<p align="left">
+<!-- yhype で view数カウントする為の埋め込み。独立した段落にすると下に余白が出るので、バッジと同じ段落に入れる -->
+<!-- https://yhype.me/github/profile-views -->
+<p align="right">
   <a href="https://github.com/ken-ty/ken-ty/">
     <img src="https://komarev.com/ghpvc/?username=ken-ty" alt="ken-ty" />
   </a>
+  <img src="https://hit.yhype.me/github/profile?account_id=38717219" width="1" height="1" alt="" />
 </p>
-
-<!-- yhype で view数カウントする為の埋め込み -->
-<!-- https://yhype.me/github/profile-views -->
-![](https://hit.yhype.me/github/profile?account_id=38717219)
