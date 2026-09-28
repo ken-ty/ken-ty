@@ -8,26 +8,22 @@
 &nbsp;
 <a href="./README.ja.md">日本語</a>
 
-## TL;DR
+## About
 
-Hi,their 🍣
+Freelance Flutter / Dart engineer based in Chiba, Japan.
+**Open to remote projects.**
 
-- I live in Chiba, Japan.
-- I love Dart, PHP and bash.
-- I mainly focus on web/mobile front-end development.
-- I also have experience using AWS, backends, robot developments, analysis using Google Analytics and programming instructor.
+- Programmer since 2016, freelance since 2023
+- Mainly web / mobile front-end, currently focused on Flutter
+- Also experienced in AWS, backends, robotics, Google Analytics and teaching programming
+- Most of my work is private client work, so public activity here is only a small part of it
+- I write on [Zenn](https://zenn.dev/ken_ty) (Japanese)
 
-My technology stack is similar to monolith services, but I prefer microservices.
+## Open Source
 
-## My Development Stats.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ken-ty&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-ty&hide=html,css" />
-</a>
-
+- [asdf-flutter](https://github.com/asdf-community/asdf-flutter) — Maintainer. Flutter SDK plugin for the asdf version manager.
+- [netcap](https://github.com/ken-ty/netcap) — Host-based QoS CLI. Throttle the internet bandwidth of every computer on your network, from one of them, with one command. (macOS / Linux / Windows)
+- [ccs](https://github.com/ken-ty/ccs) — A thin tmux wrapper to launch, find and close multiple Claude Code sessions from one hub. ([docs](https://ken-ty.github.io/ccs/))
 
 <!-- yhype で view数カウントする為の埋め込み -->
 <!-- https://yhype.me/github/profile-views -->
