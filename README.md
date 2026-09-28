@@ -6,12 +6,15 @@
 
 ## About
 
-Freelance Flutter / Dart engineer based in Tokyo, Japan.
+Flutter / Dart engineer based in Tokyo, Japan. Founder & CEO of CYKAMI Inc.
 **Open to remote projects.**
 
-- Programmer since 2016, freelance since 2023
-- Mainly web / mobile front-end, currently focused on Flutter
-- Also experienced in AWS, backends, robotics, Google Analytics and teaching programming
+- Coding since 2016, professionally since 2021, independent since 2023 (incorporated as CYKAMI Inc. in 2026)
+- Mobile apps with Flutter from 0 to 1 and on to release — including a touch-panel UI for a palletizing robot (Flutter × ROS) and rescuing an app that could not be built for months
+- Web front-end with React / Next.js / Astro and headless CMS
+- AI-driven development with Claude Code is part of my daily workflow, and I build tooling for it (see [ccs](https://github.com/ken-ty/ccs) below)
+- Part-time lecturer of mobile app development (Flutter / React Native) at a vocational school
+- Speaking at FlutterKaigi 2026 (LT, Oct 29)
 - Most of my work is private client work, so public activity here is only a small part of it
 - I write on [Zenn](https://zenn.dev/ken_ty) (Japanese)
 
