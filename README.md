@@ -6,12 +6,15 @@
 
 ## About
 
-Freelance Flutter / Dart engineer based in Tokyo, Japan.
-**Open to remote projects.**
+Flutter / Dart engineer based in Tokyo, Japan. Founder & CEO of CYKAMI Inc.
+**Available for fully remote projects only** (on-site visits for kickoffs or device testing are fine).
 
-- Programmer since 2016, freelance since 2023
-- Mainly web / mobile front-end, currently focused on Flutter
-- Also experienced in AWS, backends, robotics, Google Analytics and teaching programming
+- Coding since 2016, professionally since 2021, independent since 2023 (incorporated as CYKAMI Inc. in 2026)
+- Mobile apps with Flutter from 0 to 1 and on to release — including a touch-panel UI for a palletizing robot (Flutter × ROS) and rescuing an app that could not be built for months
+- Web front-end with React / Next.js / Astro and headless CMS
+- AI-driven development with Claude Code is part of my daily workflow, and I build tooling for it (see [ccs](https://github.com/ken-ty/ccs) below)
+- Part-time lecturer of mobile app development (Flutter / React Native) at a vocational school
+- Speaking at FlutterKaigi 2026 (LT, Oct 29)
 - Most of my work is private client work, so public activity here is only a small part of it
 - I write on [Zenn](https://zenn.dev/ken_ty) (Japanese)
 
@@ -21,12 +24,11 @@ Freelance Flutter / Dart engineer based in Tokyo, Japan.
 - [netcap](https://github.com/ken-ty/netcap) — Host-based QoS CLI. Throttle the internet bandwidth of every computer on your network, from one of them, with one command. (macOS / Linux / Windows)
 - [ccs](https://github.com/ken-ty/ccs) — A thin tmux wrapper to launch, find and close multiple Claude Code sessions from one hub. ([docs](https://ken-ty.github.io/ccs/))
 
-<p align="left">
+<!-- yhype で view数カウントする為の埋め込み。独立した段落にすると下に余白が出るので、バッジと同じ段落に入れる -->
+<!-- https://yhype.me/github/profile-views -->
+<p align="right">
   <a href="https://github.com/ken-ty/ken-ty/">
     <img src="https://komarev.com/ghpvc/?username=ken-ty" alt="ken-ty" />
   </a>
+  <img src="https://hit.yhype.me/github/profile?account_id=38717219" width="1" height="1" alt="" />
 </p>
-
-<!-- yhype で view数カウントする為の埋め込み -->
-<!-- https://yhype.me/github/profile-views -->
-![](https://hit.yhype.me/github/profile?account_id=38717219)
