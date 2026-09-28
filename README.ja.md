@@ -8,26 +8,22 @@
 &nbsp;
 <a href="./README.ja.md">日本語</a>
 
-## TL;DR
+## 自己紹介
 
-こんにちは 🍣
+千葉在住のフリーランス Flutter / Dart エンジニアです。
+**リモートの案件を募集しています。**
 
-- 千葉在住
-- Dart、PHP、bashが大好き
-- 主にWeb・モバイルのフロントエンド開発に注力しています
-- AWS、バックエンド開発、ロボット開発、Google Analyticsを用いた分析、プログラミング講師の経験があります
+- 2016 年からプログラマ、2023 年からフリーランス
+- Web / モバイルのフロントエンドが中心で、いまは Flutter に注力しています
+- AWS、バックエンド、ロボット開発、Google Analytics での分析、プログラミング講師の経験があります
+- 仕事の大半は非公開の受託開発なので、ここで見える公開アクティビティは一部です
+- [Zenn](https://zenn.dev/ken_ty) で記事を書いています
 
-技術スタックはモノリシックなサービスに近いですが、マイクロサービスの方が好きです。
+## オープンソース
 
-## 開発スタッツ
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ken-ty&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-ty&hide=html,css" />
-</a>
-
+- [asdf-flutter](https://github.com/asdf-community/asdf-flutter) — メンテナ。バージョンマネージャ asdf 用の Flutter SDK プラグイン
+- [netcap](https://github.com/ken-ty/netcap) — ホストベースの QoS CLI。ネットワーク上の各マシンのインターネット帯域を、1 台からコマンド 1 つで制限する（macOS / Linux / Windows）
+- [ccs](https://github.com/ken-ty/ccs) — ハブ 1 本から tmux 上に複数の Claude Code セッションを立て・見つけ・畳む薄いラッパー（[ドキュメント](https://ken-ty.github.io/ccs/)）
 
 <!-- yhype で view数カウントする為の埋め込み -->
 <!-- https://yhype.me/github/profile-views -->
