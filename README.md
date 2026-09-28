@@ -7,7 +7,7 @@
 ## About
 
 Flutter / Dart engineer based in Tokyo, Japan. Founder & CEO of CYKAMI Inc.
-**Open to remote projects.**
+**Available for fully remote projects only** (on-site visits for kickoffs or device testing are fine).
 
 - Coding since 2016, professionally since 2021, independent since 2023 (incorporated as CYKAMI Inc. in 2026)
 - Mobile apps with Flutter from 0 to 1 and on to release — including a touch-panel UI for a palletizing robot (Flutter × ROS) and rescuing an app that could not be built for months
