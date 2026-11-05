@@ -7,11 +7,11 @@
 ## About
 
 Flutter / Dart engineer based in Tokyo, Japan. Founder & CEO of CYKAMI Inc.
-**Available for fully remote projects only** (on-site visits for kickoffs or device testing are fine).
+**Available for mostly remote projects, 1–4 days a week** (on-site visits for kickoffs or device testing are fine).
 
 - Coding since 2016, professionally since 2021, independent since 2023 (incorporated as CYKAMI Inc. in 2026)
-- Mobile apps with Flutter from 0 to 1 and on to release — including a touch-panel UI for a palletizing robot (Flutter × ROS) and taking over an error-ridden app after the previous developer left, maintaining it and later leading its rebuild in SwiftUI
-- Web front-end with React / Next.js / Astro and headless CMS
+- Mobile apps with Flutter from 0 to 1 and on to release. Most recently I was the main developer of the touch-panel UI for a palletizing robot (Flutter × ROS) and shipped V1 through V4. I have also taken over an app after the previous developer left and led its rebuild in SwiftUI
+- Web front-end with React and Tailwind CSS, and headless CMS
 - AI-driven development with Claude Code is part of my daily workflow, and I build tooling for it (see [ccs](https://github.com/ken-ty/ccs) below)
 - Part-time lecturer of mobile app development (Flutter / React Native) at a vocational school
 - Gave a lightning talk at FlutterKaigi 2026 (Oct 29) on building Flutter apps as the interface for collaborative robots
