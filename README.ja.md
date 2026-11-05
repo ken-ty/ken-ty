@@ -14,7 +14,7 @@
 - Web フロントエンドは React / Next.js / Astro、ヘッドレス CMS 連携
 - Claude Code を使った AI 駆動開発を日常の実装フローに組み込み、そのための道具も作っています（下の [ccs](https://github.com/ken-ty/ccs) など）
 - 専門学校でモバイルアプリ開発（Flutter / React Native）の非常勤講師
-- FlutterKaigi 2026 で LT 登壇予定（10 月 29 日）
+- FlutterKaigi 2026 で LT 登壇（10 月 29 日）「協働ロボットのインターフェースとしての Flutter アプリ開発」
 - 仕事の大半は非公開の受託開発なので、ここで見える公開アクティビティは一部です
 - [Zenn](https://zenn.dev/ken_ty) で記事を書いています
 
